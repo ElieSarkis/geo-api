@@ -1,0 +1,21 @@
+.text-input{
+    margin-top: 10px !important;
+}
+
+.search{
+    padding: 20px;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+}
+
+.lists-container{
+    margin-top: 40px;
+    margin-left: 40%;
+}
+
+.list{
+    list-style-type: none;
+    font-size: 16px;
+}
